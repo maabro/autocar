@@ -1,0 +1,25 @@
+
+FECHA: 01/06/19 HORA: 11:01:48
+
+Han entrado un total de 3 pasajeros.
+Han salido un total de 0 pasajeros.
+Han pagado 2 tiquets.
+Hay 2 asientos ocupados.
+Hay 1 cinturones usados.
+
+AVISO: Hay pasajeros sin cinturon.
+AVISO: Hay pasajeros viajando de pie.
+AVISO: Hay pasajeros sin pagar tiquet.
+ERROR: No hay conductor en el autocar.
+
+FECHA: 01/06/19 HORA: 11:02:29
+
+Han entrado un total de 1 pasajeros.
+Han salido un total de 0 pasajeros.
+Han pagado 0 tiquets.
+Hay 0 asientos ocupados.
+Hay 0 cinturones usados.
+
+AVISO: Hay pasajeros viajando de pie.
+AVISO: Hay pasajeros sin pagar tiquet.
+ERROR: No hay conductor en el autocar.

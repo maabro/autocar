@@ -1,0 +1,21 @@
+Projecte UF3
+
+Ens ha contractat una empresa d'autocars, perquè instal·lem un sistema de control per als seus vehicles de 18 passatgers, que 
+realitzen trajectes curts entre poblacions amb carreteres poc segures.
+
+El projecte consta de dues parts:
+
+Primera part de maquinari, encarregat a un enginyer d'equips electrònics.
+
+Farem servir una Raspberry com a ordinador i amb un mòbil o modem per transmetre-ho a un centre de dades.
+
+Segona part de programari, encarregat a nosaltres informàtics.
+
+Utilitzarem el teclat de l'ordinador per simular els diferents sensors, tecles
+majúscules de la A,Q,W,P,Z,X,D,R,F,V,G,B,Y,H,N,U,J,O per els seients, tecles 
+minúscules a......o per els cinturons de seguretat, la lletra T lectura tiquet, 
+lletra E sensor porta entrada, lletra S sensor porta sortida, lletra C presència conductor, lletra M autocar en marxa.
+
+Llistat d'errors, de comportament irregular: no pagar, no portar el cinturó, anar de peu, portes obertes , excés 
+de passatgers etc. amb marcatge de en quina  hora es produeix. Utilitzarem sistemes de fitxers per generar un registre 
+de aquets esdeveniments temporals.
